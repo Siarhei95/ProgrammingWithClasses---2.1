@@ -1,6 +1,7 @@
-package task2_1;
+//Создать объект класса Текст, используя классы Предложение, Слово. Методы: дополнить текст, вывести на
+//консоль текст, заголовок текста.
 
-import java.util.List;
+package task2_1;
 
 public class Main {
     public static void main(String[] args) {
